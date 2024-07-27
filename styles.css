@@ -1,0 +1,43 @@
+body{
+background-color: aqua;
+margin: 3rem;
+}
+
+h1{
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: rgb(60, 7, 217);
+    font-size: 30px;
+  }
+
+h2{
+color:blueviolet;
+font-size: 20 px;
+text-align:center;
+}
+
+p{
+color:#228B22;
+font-size: 25 px;
+}
+
+div{
+    color:#228B22;
+    font-size: 25 px;
+}
+
+li{
+color:#4B0082;
+font-size: 25 px;
+}
+
+ul{
+color:#4B0082;
+font-size: 25 px; 
+}
+
+ol{
+    color:#4B0082;
+    font-size: 25 px;  
+}
